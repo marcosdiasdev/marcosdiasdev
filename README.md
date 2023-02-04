@@ -1,5 +1,5 @@
 - 👋 Hey! I’m Marcos Dias.
 - 👨🏽‍💻 I’m currently working on patient experience software at [Quality24](https://quality24.com.br/).
-- ⚛️ I've been using mostly TypeScript, React, GraphQL, NodeJS and PostgreSQL.
-- 📫 You can find me on Twitter as [@marcosdiasdev](https://twitter.com/marcosdiasdev).
+- ⚛️ I've been using mostly React.js, TypeScript, GraphQL, Node.js and PostgreSQL.
+- 📫 Sometimes, I write some tech stuff on [dev.to](https://twitter.com/marcosdiasdev](https://dev.to/marcosdiasdev).
 - 💻 I'm also on GitLab as [@marcos.dias3](https://gitlab.com/marcos.dias3).
